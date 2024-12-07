@@ -10,7 +10,7 @@ Welcome to the next level of text summarization! This app uses Hugging Face's LL
 **🚀 Getting Started**
 
 1️⃣ Clone the Repo:
-- First things first, clone the repo to get started: git clone https://github.com/Sreenivas-Reddy-S/TextSummarizer
+- First things first, clone the repo to get started: git clone https://github.com/Sreenivas-Reddy-S/TextSummarizer.git
 - cd TextSummarizer
 
 2️⃣ Install Dependencies:
